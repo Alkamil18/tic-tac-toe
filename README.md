@@ -248,7 +248,15 @@ This project demonstrates practical use of:
 
 ## 👨‍💻 Author
 
-**Khaled Abdul Salam Mohammed Mansoor**
+**Khaled Abdulsalam Mansoor**
+
+Software Engineer | PHP & Laravel Developer
+
+Email: khalidabdualslam@gmail.com
+
+GitHub: https://github.com/Alkamil18
+
+LinkedIn: https://linkedin.com/in/khalid-al-kamil-6844a4172
 
 ---
 
